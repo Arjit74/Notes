@@ -1,0 +1,19 @@
+Sure, here are the full forms of PLC and HMI used in automated industries:
+
+1. **PLC**: Programmable Logic Controller⁵⁶⁷⁸⁹
+    - A PLC is a specialized digital computer used for automation and control in industrial settings⁷. It receives input from sensors, processes the data through programmed logic, and generates output signals to control devices like motors and valves⁷.
+    - PLCs are used to automate industrial processes such as a manufacturing plant's assembly line, an ore processing plant, or a wastewater treatment plant⁶.
+    - They are designed to operate reliably in harsh industrial environments, such as extreme temperatures and wet, dry, and/or dusty conditions⁶.
+
+2. **HMI**: Human-Machine Interface¹²³⁴
+    - An HMI is a user interface or dashboard that connects a human operator to a machine, system, or device¹.
+    - HMIs provide software and hardware that allow human operators to monitor the state of a process and related equipment and give commands to control the process³.
+    - They are most commonly used in the context of an industrial process¹.
+    - HMIs can take a variety of forms, including graphical user interfaces (GUIs) on a computer, touchscreens, or physical control panels with buttons and displays.
+
+ 
+we than connect plc to thingsworx o monitor them we connect it to thingsworx through gateways which cna be connect to our computer through plc 
+here kepware is the industriacl plateform which allows plc and hmi controlled devices to connect with thingsworx 
+
+
+We then connect the PLC (Programmable Logic Controller) to ThingWorx in order to monitor them. This connection to ThingWorx is established through gateways, which can be connected to our computer via the PLC. Kepware serves as the industrial PLC platform that enables PLC and HMI (Human-Machine Interface) controlled devices to connect with Iot platforms like ThingWorx.
